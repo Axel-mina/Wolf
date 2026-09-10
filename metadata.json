@@ -1,0 +1,6 @@
+{
+  "name": "لعبة الذئب والمواطنين",
+  "description": "لعبة جماعية بسيطة لتمرير الهاتف بين اللاعبين لتحديد الأدوار (ذئب، طبيب، مواطن)، مرحلة الليل للقتل والإنقاذ، والتصويت النهاري لكشف الذئب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
